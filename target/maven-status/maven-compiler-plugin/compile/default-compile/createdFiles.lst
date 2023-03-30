@@ -1,0 +1,9 @@
+com\palomar\API\ProductController\CategoriaController.class
+com\palomar\API\repository\ProductRepository.class
+com\palomar\API\Service\CategoriaService.class
+com\palomar\API\Service\ProductService.class
+com\palomar\API\model\Categoria.class
+com\palomar\API\model\Product.class
+com\palomar\API\repository\CategoriaRepository.class
+com\palomar\API\ProductController\ProductController.class
+com\palomar\API\ApiApplication.class
